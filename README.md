@@ -18,13 +18,13 @@ statics => default => {
   "Completed":0
 }
 ```
-![](Screenshot_1.png)
+![](screenshots/Screenshot_1.png)
 <h3>Add New Order</h3>
-![](AddNewOrder.png)
+![](screenshots/addNewOrder.png)
 <h3>Order List</h3>
-![](OrderList.png)
+![](screenshots/OrderList.png)
 <h3>Filter Bar</h3>
-![](filterBar.png)
+![](screenshots/filterBar.png)
 
 ## Project setup
 ```
