@@ -9,8 +9,22 @@ const db = firebase.initializeApp({
 
 Please setup your static document in your firestore like below picture
 
-![alt text](https://prnt.sc/CMPSPKLniD8S)
+statics => default => { 
+  "New":0,
+  "Accepted":0,
+  "Cooking":0,
+  "Ready":0,
+  "Delivered":0,
+  "Completed":0
+}
 ```
+![](Screenshot_1.png)
+<h3>Add New Order</h3>
+![](AddNewOrder.png)
+<h3>Order List</h3>
+![](OrderList.png)
+<h3>Filter Bar</h3>
+![](filterBar.png)
 
 ## Project setup
 ```
