@@ -5,8 +5,11 @@ change firebase.js file
 
 const db = firebase.initializeApp({
   your Options
-  
 }).firestore()
+
+Please setup your static document in your firestore like below picture
+
+![alt text](https://prnt.sc/CMPSPKLniD8S)
 ```
 
 ## Project setup
