@@ -1,4 +1,13 @@
-# app
+# firebase setup
+
+```
+change firebase.js file
+
+const db = firebase.initializeApp({
+  your Options
+  
+}).firestore()
+```
 
 ## Project setup
 ```
@@ -21,5 +30,3 @@ npm run build
 npm run fix
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
