@@ -1,0 +1,20 @@
+@mixin calculateSize ($breakpoint) {
+  @if $breakpoint==high {
+
+    @media only screen and (max-width: 2400px ) and (min-width: 1921px) {
+      @content;
+    }
+  }
+  @if $breakpoint==web {
+
+    @media only screen and (max-width: 1920px ) and (min-width: 480px) {
+      @content;
+    }
+  }
+  @if $breakpoint==mobile {
+    @media only screen and (max-width: 480px) {
+      @content;
+    }
+  }
+}
+

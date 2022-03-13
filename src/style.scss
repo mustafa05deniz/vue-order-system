@@ -1,0 +1,17 @@
+.card-body{
+  .custom-title{
+    font-weight:bold;
+  }
+  font-size: 14px;
+  background-color: #f6f6f6 !important;
+}
+.optionClass{
+  ul{
+    display: flex;
+    gap:20px;
+  }
+}
+.formkit-wrapper, .formkit-fieldset{
+  width:100% !important;
+  max-width: 100% !important;
+}
