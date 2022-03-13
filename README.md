@@ -24,6 +24,7 @@ statics => default => {
 <h3>Order List</h3>
 ![](screenshots/OrderList.png)
 <h3>Filter Bar</h3>
+<br>
 ![](screenshots/filterBar.png)
 
 ## Project setup
