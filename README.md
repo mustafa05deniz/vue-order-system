@@ -19,14 +19,9 @@ statics => default => {
 }
 ```
 ![](screenshots/Screenshot_1.png)
-<h3>Add New Order</h3>
-![](screenshots/addNewOrder.png)
-<h3>Order List</h3>
+![](screenshots/addNewOrder.png)<br>
 ![](screenshots/OrderList.png)
-<h3>Filter Bar</h3>
-<br>
 ![](screenshots/filterBar.png)
-
 ## Project setup
 ```
 npm install
