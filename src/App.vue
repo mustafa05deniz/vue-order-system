@@ -59,6 +59,7 @@ export default {
     Footer
   },
   data: () => {
+    console.log(process.env)
     return {
       a: 1,
       title: '',
